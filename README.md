@@ -1,4 +1,5 @@
 # Digital Clock
+OLD
 
 This is a simple digital clock created using JavaScript. It displays the current time in hours, minutes, and seconds.
 
